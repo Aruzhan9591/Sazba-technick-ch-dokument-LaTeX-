@@ -1,4 +1,4 @@
-# Sazba-technick-ch-dokument-LaTeX-
+# Sazba technickich dokumentu(LaTeX)
 # STD – Semester Project
 
 ## Description
